@@ -16,7 +16,7 @@ function App() {
         <Navigation/>
         <Router>
           <Routes>
-            <Route path='/cypher-tech' exact element={<Homepage/>} />
+            <Route path='/react-cypher' exact element={<Homepage/>} />
             <Route path='/login' exact element={<Login/>} />
             <Route path='/signup' exact element={<Signup/>} />
             {
