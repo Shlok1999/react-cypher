@@ -1,0 +1,13 @@
+.navigation-section{
+    display: flex;
+    align-items: center;
+}
+.navigation-section-logo{
+    width: 40%;
+}
+.navigation-section-links{
+    display: flex;
+    margin-left: 3rem;
+    width: 60%;
+    justify-content: space-between;
+}

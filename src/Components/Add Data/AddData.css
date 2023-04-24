@@ -1,0 +1,11 @@
+.add-data-section{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.add-data{
+    border: 2px solid gray;
+    padding: 3rem;
+    margin-top: 3rem;
+}
